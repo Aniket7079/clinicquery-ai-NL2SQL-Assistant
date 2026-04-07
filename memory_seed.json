@@ -7,7 +7,7 @@
   {
     "question": "List all doctors and their specializations",
     "sql": "SELECT name, specialization, department FROM doctors ORDER BY name",
-    "tool_name": "run_sql"
+    "tool_name": "run_sql"  
   },
   {
     "question": "Show me appointments for last month",
