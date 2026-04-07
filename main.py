@@ -1,5 +1,5 @@
 
-"""FastAPI application for the NL2SQL assignment.
+"""FastAPI application for the NL2SQL assignment. 
 
 This app uses a deterministic SQL generation layer for reliability and keeps
 the Vanna 2.0 agent wiring in vanna_setup.py so the project is aligned with the
