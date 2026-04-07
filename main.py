@@ -5,7 +5,7 @@ This app uses a deterministic SQL generation layer for reliability and keeps
 the Vanna 2.0 agent wiring in vanna_setup.py so the project is aligned with the
 assignment brief.
 
-Endpoints:
+Endpoints:  
 - POST /chat
 - GET /health
 """
