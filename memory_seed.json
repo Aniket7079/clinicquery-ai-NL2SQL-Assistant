@@ -2,7 +2,7 @@
   {
     "question": "How many patients do we have?",
     "sql": "SELECT COUNT(*) AS total_patients FROM patients",
-    "tool_name": "run_sql"
+    "tool_name": "run_sql" 
   },
   {
     "question": "List all doctors and their specializations",
