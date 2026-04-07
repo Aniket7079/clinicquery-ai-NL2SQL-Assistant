@@ -4,7 +4,7 @@
 An AI-powered Natural Language to SQL (NL2SQL) chatbot that allows users to query a clinic database using plain English. 
 
 ## 🚀 Features
-- Convert natural language to SQL queries
+- Convert natural language to SQL queries 
 - FastAPI backend
 - SQLite database with synthetic healthcare data
 - Data visualization using Plotly
