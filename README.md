@@ -6,7 +6,7 @@ An AI-powered Natural Language to SQL (NL2SQL) chatbot that allows users to quer
 ## 🚀 Features 
 - Convert natural language to SQL queries
 - FastAPI backend
-- SQLite database with synthetic healthcare data
+- SQLite database with synthetic healthcare dat
 - Data visualization using Plotly 
 - Safe SQL execution (SELECT-only)
 - Agent-based architecture using Vanna AI 2.0
