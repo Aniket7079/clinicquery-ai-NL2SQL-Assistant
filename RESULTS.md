@@ -1,5 +1,5 @@
 # Results
-
+ 
 Validation run against the generated `clinic.db`.
 
 **Passed:** 20 / 20
