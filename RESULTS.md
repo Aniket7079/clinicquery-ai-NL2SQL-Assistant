@@ -21,7 +21,7 @@ SELECT COUNT(*) AS total_patients FROM patients
 SELECT name, specialization, department FROM doctors ORDER BY name
 ```
 - **Result summary:** 15 row(s). name=Dr. Anil Vohra, specialization=Cardiology, department=Heart Care | name=Dr. Bhaskar Sood, specialization=Pediatrics, department=Child Care
-
+ 
 ## 3. Show me appointments for last month
 
 - **Status:** PASS
