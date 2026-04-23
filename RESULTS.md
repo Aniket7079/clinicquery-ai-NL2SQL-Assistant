@@ -22,7 +22,7 @@ SELECT name, specialization, department FROM doctors ORDER BY name
 ```
 - **Result summary:** 15 row(s). name=Dr. Anil Vohra, specialization=Cardiology, department=Heart Care | name=Dr. Bhaskar Sood, specialization=Pediatrics, department=Child Care
  
-## 3. Show me appointments for last month
+## 3. Show me appointments for last monthly
 
 - **Status:** PASS
 - **Generated SQL:**
