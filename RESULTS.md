@@ -2,7 +2,7 @@
  
 Validation run against the generated `clinic.db`.
 
-**Passed:** 20 / 20
+**Passed:** 20 / 20 
 
 ## 1. How many patients do we have? 
 
