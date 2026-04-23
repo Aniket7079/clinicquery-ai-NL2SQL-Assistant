@@ -11,7 +11,7 @@ An AI-powered Natural Language to SQL (NL2SQL) chatbot that allows users to quer
 - Safe SQL execution (SELECT-only)
 - Agent-based architecture using Vanna AI 2.0
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack   
 - Python
 - FastAPI
 - SQLite
