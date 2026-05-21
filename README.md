@@ -1,6 +1,6 @@
 
 # ClinicQuery AI 🏥
-
+  
 An AI-powered Natural Language to SQL (NL2SQL) chatbot that allows users to query a clinic database using plain English.
        
 ## 🚀 Features
