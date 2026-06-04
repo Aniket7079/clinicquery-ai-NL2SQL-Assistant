@@ -10,7 +10,7 @@ Endpoints:
 - GET /health
 """  
 
-from __future__ import annotations 
+from __future__ import annotations
 
 import difflib
 import json
