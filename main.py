@@ -15,7 +15,7 @@ from __future__ import annotations
 import difflib
 import json
 import re
-import sqlite3
+import sqllite3
 from collections import Counter
 from dataclasses import asdict, dataclass
 from datetime import date, datetime, timedelta
