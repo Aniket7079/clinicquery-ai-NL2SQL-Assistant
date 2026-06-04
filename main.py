@@ -8,7 +8,7 @@ assignment brief.
 Endpoints:  
 - POST /chat
 - GET /health
-"""  
+"""
     
 from __future__ import annotations
 
